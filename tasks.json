@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Jogar bola",
+        "status": "todo",
+        "createdAt": "2026-02-08 14:10:02",
+        "updatedAt": "2026-02-08 14:10:02"
+    },
+    {
+        "id": 2,
+        "description": "Terminar a Simmer",
+        "status": "todo",
+        "createdAt": "2026-02-08 14:10:09",
+        "updatedAt": "2026-02-08 14:10:09"
+    }
+]
